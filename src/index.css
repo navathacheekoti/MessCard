@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "courier New",Courier;
+  /* background-color: #EFBBFF;   */
+  height: 100%;
+  background-color:#F2F2F2
+
+}
+button{
+    cursor: pointer;
+}

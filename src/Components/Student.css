@@ -1,0 +1,30 @@
+body{
+    /* background-color: #fff; */
+}
+button{
+    /* background: #FDFC47;   */
+    /* fallback for old browsers */
+/* background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);  */
+ /* Chrome 10-25, Safari 5.1-6 */
+/* background: linear-gradient(to right, rgb(44, 248, 71), #FDFC47); */
+ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+display:inline-block;
+background: #6138AD;
+width: 55%;
+margin: 0 auto;
+height: 50px;
+margin-top: 30px;
+border-radius: 10px;
+color: aliceblue;
+/* border: 5 px solid #fff; */
+box-shadow: none;
+overflow: hidden;
+text-align: center;
+top: 0;
+font-weight: bolder;
+font-size: large;
+}
+table{
+    margin: 0 auto;
+    text-align: center;
+}
